@@ -1,5 +1,5 @@
-# Shadamn
-Radio Ad Blocker -  Mute annoying commercials using Shazam! and more tricks...
+# Shadamn!
+Radio Ad Blocker -  Mute annoying commercials using Shazam! and some DSP tricks...
 
 Hello GitHub!
 This is my first github project, and my programming skills are limited - so any help is much appreciated.
